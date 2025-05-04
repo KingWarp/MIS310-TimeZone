@@ -1,2 +1,1 @@
-# MIS310
-Repository for MIS310 class
+This code uses tkinker to create a gui to select a city from a list and view its timezone. THe gui has a alabel, listbox, and a quit button. When a city is selected, the program displays the timezone.
